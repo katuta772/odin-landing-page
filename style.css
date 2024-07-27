@@ -39,7 +39,7 @@ body {
     width: 50%;
     margin: auto;
     padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 70px;
 
     display: flex;
     justify-content: space-between;
@@ -103,6 +103,7 @@ body {
 
     width: 50%;
     margin: auto;
+    margin-top: 40px;
     padding-bottom: 50px;
 }
 
@@ -191,7 +192,7 @@ body {
 }
 
 #main-call{
-    width: 60%;
+    width: 50%;
 
     display: flex;
     justify-content: center;
